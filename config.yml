@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "https://atom-u.github.io"
+baseURL: "https://atom-u.github.io/atom-blogV3"
 title: Atom 
 paginate: 5
 theme: PaperMod
