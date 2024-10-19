@@ -14,7 +14,7 @@ showtoc: true
 draft: false
 ---
 
-<img src="/images/bscp.svg" style="margin-left:30%;border:solid;border-color:#885FFF;">
+<img src="/static/images/bscp.svg" style="margin-left:30%;border:solid;border-color:#885FFF;">
 
 - - -
 
