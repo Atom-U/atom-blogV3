@@ -164,7 +164,8 @@ Ces roadmaps m'ont permis d'organiser mes connaissances de manière efficace, re
 ![My Big XSS Roadmap](/images/xss.png)
 
 👉[Click ici -> Lien roadmap XSS (sans mes notes)](https://excalidraw.com/#json=olc_SyA3xCmOvYnHZJAb6,h75MbZMjap12LElWdaWoNA)
-[Lien vers mes tips & tricks pour créer de bonnes roadmaps](blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#tips--tricks--comment-faire-les-meilleures-roadmaps)
+
+👉[Lien vers mes tips & tricks pour créer de bonnes roadmaps](blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#tips--tricks--comment-faire-les-meilleures-roadmaps)
 
 ---
 - - -
