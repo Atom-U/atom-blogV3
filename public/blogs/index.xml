@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Atom</title>
-    <link>//localhost:1313/blogs/</link>
+    <link>http://localhost:1313/atom-blogV3/blogs/</link>
     <description>Recent content in Blogs on Atom</description>
     <image>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/atom-blogV3/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/atom-blogV3/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/atom-blogV3/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is Bioinformatics</title>
-      <link>//localhost:1313/blogs/what-is-bioinformatics/</link>
+      <link>http://localhost:1313/atom-blogV3/blogs/what-is-bioinformatics/</link>
       <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//localhost:1313/blogs/what-is-bioinformatics/</guid>
+      <guid>http://localhost:1313/atom-blogV3/blogs/what-is-bioinformatics/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.&lt;/p&gt;
 &lt;p&gt;In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.&lt;/p&gt;
@@ -25,20 +25,20 @@
     
     <item>
       <title>De zéro à la BSCP : Mon parcours et Mes astuces ⚡</title>
-      <link>//localhost:1313/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/</link>
+      <link>http://localhost:1313/atom-blogV3/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/images/bscp.svg&#34; style=&#34;margin-left:30%;border:solid;border-color:#885FFF;&#34;&gt;
+      <guid>http://localhost:1313/atom-blogV3/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/atom-blogV3/static/images/bscp.svg&#34; style=&#34;margin-left:30%;border:solid;border-color:#885FFF;&#34;&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;introduction-&#34;&gt;Introduction :&lt;/h1&gt;
 &lt;p&gt;Je suis parti de rien, et après plusieurs mois de travail, j&amp;rsquo;ai décroché la certification &lt;strong&gt;Burp Suite Certified Practitioner&lt;/strong&gt;
 Dans cet article, je partage les stratégies, astuces, et erreurs à éviter pour que toi aussi, tu puisses obtenir cette certification, même si tu pars de zéro !&lt;/p&gt;
 &lt;p&gt;Mon objectif est de te fournir une stratégie claire avec des étapes précises pour t&amp;rsquo;aider à passer l&amp;rsquo;examen efficacement.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-tu-es-intéressé-par-la-bscp-mais-tu-ne-sais-pas-par-où-commencer--clique-iciblogsde-zéro-à-la-bscp-mon-parcours-et-mes-astuceskesako-la-bscp-&#34;&gt;📌 Tu es intéressé par la BSCP mais tu ne sais pas par où commencer ? &lt;a href=&#34;//localhost:1313/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/#kesako-la-bscp-&#34;&gt;Clique ici&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;-tu-vas-bientôt-passer-la-bscp--clique-iciblogsde-zéro-à-la-bscp-mon-parcours-et-mes-astucesles-meilleures-ressources-pour-préparer-la-bscp&#34;&gt;📌 Tu vas bientôt passer la BSCP ? &lt;a href=&#34;//localhost:1313/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/#les-meilleures-ressources-pour-pr%C3%A9parer-la-bscp&#34;&gt;Clique ici&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;-visiteur-de-lombre-juste-curieux--clique-iciblogsde-zéro-à-la-bscp-mon-parcours-et-mes-astuceskesako-la-bscp-&#34;&gt;📌 Visiteur de l&amp;rsquo;ombre, juste curieux ? &lt;a href=&#34;//localhost:1313/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/#kesako-la-bscp-&#34;&gt;Clique ici&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;-tu-es-intéressé-par-la-bscp-mais-tu-ne-sais-pas-par-où-commencer--clique-iciblogsde-zéro-à-la-bscp-mon-parcours-et-mes-astuceskesako-la-bscp-&#34;&gt;📌 Tu es intéressé par la BSCP mais tu ne sais pas par où commencer ? &lt;a href=&#34;http://localhost:1313/atom-blogV3/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/#kesako-la-bscp-&#34;&gt;Clique ici&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;-tu-vas-bientôt-passer-la-bscp--clique-iciblogsde-zéro-à-la-bscp-mon-parcours-et-mes-astucesles-meilleures-ressources-pour-préparer-la-bscp&#34;&gt;📌 Tu vas bientôt passer la BSCP ? &lt;a href=&#34;http://localhost:1313/atom-blogV3/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/#les-meilleures-ressources-pour-pr%C3%A9parer-la-bscp&#34;&gt;Clique ici&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;-visiteur-de-lombre-juste-curieux--clique-iciblogsde-zéro-à-la-bscp-mon-parcours-et-mes-astuceskesako-la-bscp-&#34;&gt;📌 Visiteur de l&amp;rsquo;ombre, juste curieux ? &lt;a href=&#34;http://localhost:1313/atom-blogV3/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/#kesako-la-bscp-&#34;&gt;Clique ici&lt;/a&gt;&lt;/h2&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;hr&gt;
