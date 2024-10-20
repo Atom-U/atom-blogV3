@@ -22,7 +22,8 @@ draft: false
 #  Introduction : 
 
 
-Je suis parti de rien, et après plusieurs mois de travail, j'ai décroché la certification **Burp Suite Certified Practitioner**
+Je suis parti de rien, et après plusieurs mois de travail, j'ai décroché la certification **Burp Suite Certified Practitioner**.
+
 Dans cet article, je partage les stratégies, astuces, et erreurs à éviter pour que toi aussi, tu puisses obtenir cette certification, même si tu pars de zéro !
 
 Mon objectif est de te fournir une stratégie claire avec des étapes précises pour t'aider à passer l'examen efficacement.
@@ -41,19 +42,20 @@ Mon objectif est de te fournir une stratégie claire avec des étapes précises 
 
 ### Kesako la BSCP ?
 
-La Burp Suite Certified Practitioner (BSCP) est une certification officielle délivrée par les créateurs de Burp Suite. **Becoming a Burp Suite Certified Practitioner demonstrates a deep knowledge of web security vulnerabilities, the correct mindset to exploit them, and of course, the Burp Suite skills needed to carry this out.**"
+La Burp Suite Certified Practitioner (BSCP) est une certification officielle délivrée par les créateurs de Burp Suite. 
+
+**"Becoming a Burp Suite Certified Practitioner demonstrates a deep knowledge of web security vulnerabilities, the correct mindset to exploit them, and of course, the Burp Suite skills needed to carry this out.**"  — *Port Swigger*
 
 - - -
 
 ## 📊 Ce que vous devez savoir sur la BSCP : les notions clés
 
-- 6 steps / 4 hours / 2 apps
-- Step 1 : "Get access to any user" *(donc pas forcément Carlos)*
-- Step 2 : "Promote yourself to an administrator or steal admin's data" *(regarder les nouvelles features que vous avez avec votre utilisateur)*
-- Final step : "Using the admin panel, read the contents of /home/carlos/secret on the application's file system" *(la vuln se trouve donc sur l'admin panel ou en rapport avec celui-ci !)*
+- **4 heures / 2 apps / 3 steps par apps** 
+- **Step 1** : "Get access to any user" *(donc pas forcément Carlos)*
+- **Step 2** : "Promote yourself to an administrator or steal admin's data" *(regarder les nouvelles features que vous avez avec votre utilisateur)*
+- **Final step** : "Using the admin panel, read the contents of /home/carlos/secret on the application's file system" *(la vuln se trouve donc sur l'admin panel ou en rapport avec celui-ci !)*
 - Vous êtes obligé d'exploiter chaque step dans l'ordre
 - Il n'y a qu'un "active user" par application *(donc si premier steps vous l'avez utilisé, par exemple pour une XSS alors la vuln pour le deuxième steps ne pourra être en lien avec l'utilisateur actif et l'exploit server)*
-- N'oubliez pas les 2 wordlists à utiliser *(elles pourraient vous servir ;) )*
 
 - - -
 - - -
@@ -67,6 +69,8 @@ Au début, tout semblait incompréhensible, mais avec de la persévérance, chaq
 
 **Fin juin**, après avoir complété **plus de 50 %** des labs de PortSwigger, j'ai décidé de me concentrer sur la certification et de **créer un plan d'action de trois mois**. Cela a été la meilleure décision pour réussir la BSCP, me permettant de garder le focus, progresser étape par étape, et rester sur la bonne voie, même quand la motivation chutait.
 
+*Mon plan d'action*
+
 ![image de mon plan d'action](/images/action-plan1.svg)
 
 - - -
@@ -79,7 +83,9 @@ Au début, tout semblait incompréhensible, mais avec de la persévérance, chaq
 
 **"If you fail to plan, you are planning to fail."**  — *Benjamin Franklin*
 
-Parce qu'une vision sans plan est juste un rêve, mais une roadmap transforme ce rêve en réalité concrète, étape par étape. Le plan d'action permet de rester sur la bonne voie, même quand la vie devient difficile ou que la motivation vacille. Il sert de boussole, te rappelant les étapes à suivre, peu importe les obstacles. En te focalisant sur le process plutôt que sur l'émotion du moment, tu avances, pas à pas, vers tes objectifs, sans perdre de vue la direction.
+Parce qu'une vision sans plan est juste un rêve, mais une roadmap transforme ce rêve en réalité concrète, étape par étape. 
+
+Le plan d'action permet de rester sur la bonne voie, même quand la vie devient difficile ou que la motivation vacille. Il sert de boussole, te rappelant les étapes à suivre, peu importe les obstacles. En te focalisant sur le process plutôt que sur l'émotion du moment, tu avances, pas à pas, vers tes objectifs, sans perdre de vue la direction.
 
 - - -
 
@@ -128,7 +134,8 @@ Notre cerveau est par défaut visuel : il assimile et retient **beaucoup mieux**
 
 je n'ai pas trouvé de solution afin de vous partagez mes notes avec la roadmap
 
-🛑 Mettre en Noir la roadmap ! -> `CTRL + /` -> dark -> `Enter` 
+🛑 Mettre en Noir la roadmap ! -> `CTRL + /` -> dark -> `Enter`
+
 👉[Lien de la Roadmad sans mes notes ](https://excalidraw.com/#json=JjypEaWNFXGPs2yhwV9kS,mkJgF-Y0D2cHa1cvrL_IPg)
 
 
@@ -156,7 +163,7 @@ Ces roadmaps m'ont permis d'organiser mes connaissances de manière efficace, re
 
 👉[Click ici -> Lien de Ma ROADMAP BSCP](https://excalidraw.com/#json=wsXZjNIUK2mYBcBMdv69i,O18VLULtD4J5fDzTXHtqvA)
 
-👉[Explication vidéo de ma roadmap SSTI + Roadmap BSCP] (Dans cette vidéo, je vais prendre l'exemple concret de la roadmap SSTI, en revenant sur pourquoi faire une roadmap et pourquoi je l'ai conçue de cette manière.)
+**👉 [Explication vidéo de ma roadmap SSTI + Roadmap BSCP] (Dans cette vidéo, je vais prendre l'exemple concret de la roadmap SSTI, en revenant sur pourquoi faire une roadmap et pourquoi je l'ai conçue de cette manière.)**
 
 - - - 
 ## Voici par exemple une roadmap plus complexe et étoffée : celle des XSS
@@ -173,6 +180,7 @@ Ces roadmaps m'ont permis d'organiser mes connaissances de manière efficace, re
 # Ma Prise de Notes
 
 Chaque lab que j'ai effectué se retrouve dans mes notes.
+
 Et oui, **CHAQUE LAB** parce que **"Prendre des notes prend du temps, mais ne pas en prendre, c’est perdre son temps."**
 — Elliot Meunier
 
@@ -238,13 +246,13 @@ Ce n'était **pas seulement un examen**, c'était un **test de ma persévérance
 
 - Understand -> Adapt -> Learn -> Try again
 
-  C'est mathématique : tant que je n'abandonne pas, je ne peux pas perdre.
+  **C'est mathématique : tant que je n'abandonne pas, je ne peux pas perdre.**
 
 ### 5 Octobre : Failed
 
 - Understand -> Adapt -> Learn -> Try again
 
-  C'est une question de temps avant que je l'obtienne.
+  **C'est une question de temps avant que je l'obtienne.**
 
 ### 11 Octobre 💥 Succeed
 
@@ -263,7 +271,9 @@ Kawabunga 💥 Oh que oui, bonhomme !
 ## Mon **Lifestyle** durant la Préparation de la BSCP (et actuel)
 ### Comment Maximiser ton Efficacité en Évitant le Burnout
 
-L'utilisation du time blocking est un véritable gamechanger dans une vie. **Elon Musk lui-même** utilise le time blocking pour gérer ses journées. C'est une méthode qui lui permet de maximiser son efficacité et de rester concentré sur ses objectifs sans se laisser distraire. En bloquant des plages horaires dédiées à des tâches spécifiques.
+L'utilisation du time blocking est un véritable gamechanger dans une vie. 
+
+**Elon Musk lui-même** utilise le time blocking pour gérer ses journées. C'est une méthode qui lui permet de maximiser son efficacité et de rester concentré sur ses objectifs sans se laisser distraire. En bloquant des plages horaires dédiées à des tâches spécifiques.
 
 Pour nous, cette méthode peut également transformer notre manière de travailler, en nous aidant à prioriser nos actions, à rester productifs, tout en évitant le pire énemie : **la dispersion**
 
