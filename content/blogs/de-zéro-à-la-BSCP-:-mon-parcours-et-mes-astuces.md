@@ -52,7 +52,7 @@ La Burp Suite Certified Practitioner (BSCP) est une certification officielle dé
 - Step 2 : "Promote yourself to an administrator or steal admin's data" *(regarder les nouvelles features que vous avez avec votre utilisateur)*
 - Final step : "Using the admin panel, read the contents of /home/carlos/secret on the application's file system" *(la vuln se trouve donc sur l'admin panel ou en rapport avec celui-ci !)*
 - Vous êtes obligé d'exploiter chaque step dans l'ordre
-- Il n'y a qu'un "active user" par application *(donc si premier steps vous l'avez utilisez, par exemple pour une XSS alors la vuln pour le deuxième steps ne pourra être en lien avec l'utilisateur actif et l'exploit server)*
+- Il n'y a qu'un "active user" par application *(donc si premier steps vous l'avez utilisé, par exemple pour une XSS alors la vuln pour le deuxième steps ne pourra être en lien avec l'utilisateur actif et l'exploit server)*
 - N'oubliez pas les 2 wordlists à utiliser *(elles pourraient vous servir ;) )*
 
 - - -
@@ -260,7 +260,8 @@ Kawabunga 💥 Oh que oui, bonhomme !
 -- - 
 -- - 
 -- - 
-## Mon **Lifestyle** durant la Préparation de la BSCP (et actuel) / Comment Maximiser ton Efficacité en Évitant le Burnout
+## Mon **Lifestyle** durant la Préparation de la BSCP (et actuel)
+### Comment Maximiser ton Efficacité en Évitant le Burnout
 
 L'utilisation du time blocking est un véritable gamechanger dans une vie. **Elon Musk lui-même** utilise le time blocking pour gérer ses journées. C'est une méthode qui lui permet de maximiser son efficacité et de rester concentré sur ses objectifs sans se laisser distraire. En bloquant des plages horaires dédiées à des tâches spécifiques.
 
@@ -403,7 +404,7 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii [Télécharger le template]
 2. Dévelope ta methodolgie en faisant plus de 20 mystery labs (sans reveler l'objectif)
 3. Ne te contente pas des prérequis de PortSwigger pour la BSCP, fais bien plus.
 4. Fais un plan d'action solide.
-   C'est la première chose que tu dois faire [Voir ici l'importance du plan d'action (lien sur ma page)]()
+   C'est la première chose que tu dois faire [Voir ici l'importance du plan d'action](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#-limportance-dun-plan-daction-)
 5. Lit bien [Les hint de port swigger](https://portswigger.net/web-security/certification/exam-hints-and-guidance) tu découvriras des chose
 
 
@@ -419,8 +420,8 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii [Télécharger le template]
 6. Si vous trouvez une SSRF elle sera sur le port `localhost:6566` et te permettra d'avoir un *File Reading* pour le stage 3 
 7. La victim utilise Chromuim (toujours bon a savoir pour les XSS)
 8. Ne tomber pas dans **The rabbit hole**, si vous ne trouvez pas prenez un petite pause, prenez du recule comme un oiseau qui s'élève
-9. Si vous ne trouvez rien faite par elimination en utilisant [le template pour eliminer]()
-10. Je donne quelque mini tips au debut de [cette article sur les differents Stage]()
+9. Si vous ne trouvez rien faite par elimination en utilisant [Proceed by elimination](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#lutilisation-de-mon-template-proceed-by-elimination)
+10. Je donne quelque mini tips au debut de [cette article sur les differents Stage](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#-ce-que-vous-devez-savoir-sur-la-bscp--les-notions-clés)
 11. 
 
 
@@ -452,4 +453,4 @@ Les plans d'action sont l'autoroute du succès.
 
 
 Good luck ! 
-
+Send me a message ;)
