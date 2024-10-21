@@ -60,6 +60,7 @@ La Burp Suite Certified Practitioner (BSCP) est une certification officielle dé
 - - -
 - - -
 - - -
+
 # 🛤️ Mon parcours et ma méthodologie    From Zero to Certified BSCP
 
 Zero Background
@@ -329,6 +330,7 @@ Ne te contente jamais du minimum. Vise haut, et sois toujours prêt à t'adapter
 Bonne chance dans cette aventure !
 
 n'hésite pas à me contacter !
+
 **Stay hard**
 
 ---
@@ -336,16 +338,19 @@ n'hésite pas à me contacter !
 ---
 # Les Meilleures Ressources pour Préparer la BSCP
 
+[📥 Mes ressources](https://github.com/Atom-U/My-BSCP-tools/)
+
+
 ## Mystery Labs : La Clé pour Réussir la BSCP
 
 Explication juste ici 
+
 👉 [Click ici -> Lien vers un peu plus haut dans la page](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#fin-août--préparation-juste-avant-la-bscp--la-clé-pour-réussir-la-bscp)
 
 ---
 
 ## Mon Setup pour Passer la BSCP
 
-[Courte Vidéo explicative]
 
 - Burp Pro
 - Les extensions qui vont bien
@@ -423,7 +428,7 @@ Explication juste ici
 3. Ne te contente pas des prérequis de PortSwigger pour la BSCP, fais bien plus.
 4. Fais un plan d'action solide.
    C'est la première chose que tu dois faire [Voir ici l'importance du plan d'action](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#-limportance-dun-plan-daction-)
-5. Lit bien [Les hint de port swigger](https://portswigger.net/web-security/certification/exam-hints-and-guidance) tu découvriras des chose
+5. Lit bien [Les hint de port swigger](https://portswigger.net/web-security/certification/exam-hints-and-guidance) tu découvriras des choses
 
 - - -
 ### Tips & Tricks : l'Examen de la BSCP
@@ -471,4 +476,8 @@ Les plans d'action sont l'autoroute du succès.
 - - - 
 
 Good luck ! 
-Send me a message ;)
+
+Send me a message ;) 🫴 [Mon discord](https://discord.com/users/user19216820011)
+
+
+

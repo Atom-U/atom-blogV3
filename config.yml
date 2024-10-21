@@ -19,6 +19,16 @@ minify:
   disableXML: true
   minifyOutput: true
 
+server:
+  headers:
+  - for: /**
+    values:
+      #Content-Security-Policy: script-src localhost:1313
+      Referrer-Policy: strict-origin-when-cross-origin
+      X-Content-Type-Options: nosniff
+      X-Frame-Options: DENY
+      X-XSS-Protection: 1; mode=block
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Atom Blog 
@@ -81,9 +91,9 @@ params:
   - name: twitter
     url: "https://x.com/Atom_User_"
   - name: linkedin
-    url: "https://www.linkedin.com/in/thomas-879017266"
+    url: "https://www.linkedin.com/in/atom1"
   - name: github
-    url: "https://github.com/Atom_User" 
+    url: "https://github.com/Atom-U" 
   
 
   analytics:
