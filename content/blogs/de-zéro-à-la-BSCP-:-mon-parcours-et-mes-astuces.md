@@ -136,7 +136,7 @@ je n'ai pas trouvé de solution afin de vous partagez mes notes avec la roadmap
 
 🛑 Mettre en Noir la roadmap ! -> `CTRL + /` -> dark -> `Enter`
 
-👉[Lien de la Roadmad sans mes notes ](https://excalidraw.com/#json=JjypEaWNFXGPs2yhwV9kS,mkJgF-Y0D2cHa1cvrL_IPg)
+👉[Lien de la Roadmap sans mes notes ](https://excalidraw.com/#json=JjypEaWNFXGPs2yhwV9kS,mkJgF-Y0D2cHa1cvrL_IPg)
 
 
 Elles contiennent :
@@ -163,7 +163,11 @@ Ces roadmaps m'ont permis d'organiser mes connaissances de manière efficace, re
 
 👉[Click ici -> Lien de Ma ROADMAP BSCP](https://excalidraw.com/#json=wsXZjNIUK2mYBcBMdv69i,O18VLULtD4J5fDzTXHtqvA)
 
-**👉 [Explication vidéo de ma roadmap SSTI + Roadmap BSCP] (Dans cette vidéo, je vais prendre l'exemple concret de la roadmap SSTI, en revenant sur pourquoi faire une roadmap et pourquoi je l'ai conçue de cette manière.)**
+
+<img src="/images/youtube.png" style="margin-left:30%;border:solid;border-color:#885FFF;">
+
+**📽️👉 [Explication vidéo de ma roadmap SSTI + Roadmap BSCP + Process By elimination](https://youtu.be/QaKsUK2EItI?si=f7oFuyegQbjDU7of)**  
+_(🎯 Dans cette vidéo, je vais prendre l'exemple concret de la roadmap SSTI, et présenter Ma roadmap pour la BSCP)_
 
 - - - 
 ## Voici par exemple une roadmap plus complexe et étoffée : celle des XSS
@@ -196,7 +200,7 @@ Un bon Obsidian sous stéroïdes et un template pour chaque lab PortSwigger.
 
 ![Image du template](/images/lab-template.png)
 
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii [Lien pour télécharger le template]()
+[📥 Téléchargez le Template](https://github.com/Atom-U/My-BSCP-tools/)
 
 - - -
 - - -
@@ -211,8 +215,6 @@ J'ai donc créé une méthodologie en m'inspirant de ce site, avec les différen
 ![Image de ma roadmap pour les Mystery Labs](/images/mysterly-lab.png)
 
 iiiiiiiiiiiiiiiiiiiiii[Télécharger cette roadmap]
-
-[Vidéo exemple sur Mystery Lab de comment utiliser concrètement cette roadmap]
 
 - - -
 ## On passe aux choses sérieuses : Le Passage de l'Examen
@@ -369,11 +371,13 @@ Explication juste ici
 
 ![image du template en svg](/images/Proceed-by-elimination-BSCP.svg)
 
-iiiiiiiiiiiiiiiiiiiiiiiiiiii [Télécharger le template]
+**📽️👉 [Explication vidéo de ma roadmap SSTI + Roadmap BSCP + Process By elimination](https://youtu.be/QaKsUK2EItI?si=f7oFuyegQbjDU7of)**  
+
+[📥 Téléchargez le Template](https://github.com/Atom-U/My-BSCP-tools/)
 - - -
 ## Mon Template Obsidian pour Passer la BSCP
 
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii [Télécharger le template]
+[📥 Téléchargez le Template](https://github.com/Atom-U/My-BSCP-tools/)
 
 ![Image du premier aperçu du template](/images/template-bscp01.png)
 ![Image du premier aperçu du template](/images/template-bscp02.png)
@@ -391,7 +395,7 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii [Télécharger le template]
 
 3. [BotesJuan](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study) Super ressource qui répèrtorie beaucoup de note, qui ma beaucoup aider
 4. [Dingy Shark](https://github.com/DingyShark/BurpSuiteCertifiedPractitioner) Super ressource qui répèrtorie beaucoup de note 
-5. - [Edra xss]([https://github.com/Edr4/XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters)) Best for the XSS
+5. [Edra xss]([https://github.com/Edr4/XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters)) Best for the XSS
 ---
 
 ## Tips & Tricks
@@ -400,10 +404,10 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii [Télécharger le template]
 ### Tips & Tricks : Si tu commences ton ascension vers la BSCP
 
 1. Fais un plan d'action solide.
-   C'est la première chose que tu dois faire Voir ici l'importance du plan d'action (lien sur ma page)
+   C'est la première chose que tu dois faire Voir ici l'importance du plan d'action [plan d'action](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#-mon-parcours-et-ma-méthodologie----from-zero-to-certified-bscp)
 2. Concentre-toi sur les 20% qui vont te donner 80% des résultats (loi de Pareto).
 3. Prend des notes claire pour chaque lab que tu fais
-4. Relecture de ces notes chaque semaine afin d'assimilé toutes ces informations 
+4. Relecture de ces notes chaque semaine afin d'assimiler toutes ces informations 
 5. Faire tout les jours du port swigger, ou une action qui te fait avancé vers ton objectif (la BSCP)
 6. Ne jamais avoir plus de 3 jours sans faire du port swigger, le fait de ne pas pratiquer tout les jours risque de te retarder considérablement
 
@@ -417,22 +421,20 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii [Télécharger le template]
    C'est la première chose que tu dois faire [Voir ici l'importance du plan d'action](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#-limportance-dun-plan-daction-)
 5. Lit bien [Les hint de port swigger](https://portswigger.net/web-security/certification/exam-hints-and-guidance) tu découvriras des chose
 
-
 - - -
 ### Tips & Tricks : l'Examen de la BSCP
 
 1. Utiliser Burp Scanner, cela vous permet de gagner beaucoup de temps
-	1. Savoir ce que Burp scanner peut trouver comme vuln 
+	- Savoir ce que Burp scanner peut trouver comme vuln 
 2. L'examen est dur : trouver 6 vulnérabilités en 4h ne vous laisse que 40 minutes par vulnérabilité, y compris leur exploitation.
 3. Si vous échouez, pas de problème, vous avez un plan d'action, vous savez exactement quoi faire. Apprenez de vos erreurs et recommencez jusqu'à l'obtenir.
 4. Envoyez-moi un message, je vous partagerai d'autres ressources qui ne sont pas ici ;)
 5. Il est nécessaire d'utiliser Windows, car la plateforme de surveillance de l'examen n'est pas compatible avec Linux :/
 6. Si vous trouvez une SSRF elle sera sur le port `localhost:6566` et te permettra d'avoir un *File Reading* pour le stage 3 
-7. La victim utilise Chromuim (toujours bon a savoir pour les XSS)
-8. Ne tomber pas dans **The rabbit hole**, si vous ne trouvez pas prenez un petite pause, prenez du recule comme un oiseau qui s'élève
-9. Si vous ne trouvez rien faite par elimination en utilisant [Proceed by elimination](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#lutilisation-de-mon-template-proceed-by-elimination)
-10. Je donne quelque mini tips au debut de [cette article sur les differents Stage](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#-ce-que-vous-devez-savoir-sur-la-bscp--les-notions-clés)
-11. 
+7. La victime utilise Chromuim (toujours bon a savoir pour les XSS)
+8. Ne tomber pas dans **The rabbit hole**, si vous ne trouvez pas prenez un petite pause, prenez du recul comme un oiseau qui s'élève
+9. Si vous ne trouvez rien faites par elimination en utilisant [Proceed by elimination](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#lutilisation-de-mon-template-proceed-by-elimination)
+10. Je donne quelques mini tips au debut de [cette article sur les differents Stage](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#-ce-que-vous-devez-savoir-sur-la-bscp--les-notions-clés)
 
 
 - - -
@@ -460,7 +462,9 @@ Les plans d'action sont l'autoroute du succès.
 4. Faites en sorte que vos roadmaps soient agréables et les plus lisibles possible. Celles-ci vous permettront de les exploiter plus rapidement pendant l'examen (n'oubliez pas, vous n'avez que 4h ! Tic Tac Tic Tac).
 5. Vous allez en faire beaucoup des roadmaps, alors créez-vous un template, comme ça, un simple copier-coller et c'est fait.
 6. Revoyez chaque jour au moins une de vos roadmaps. Vous verrez, plus vous en ferez, plus votre état d'esprit va changer, et vous changerez plein de petits détails dans celles-ci.
+7. **📽️👉 [Explication vidéo de ma roadmap SSTI + Roadmap BSCP](https://youtu.be/QaKsUK2EItI?si=f7oFuyegQbjDU7of)**  
 
+- - - 
 
 Good luck ! 
 Send me a message ;)
