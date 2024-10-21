@@ -38,7 +38,6 @@ Mon objectif est de te fournir une stratégie claire avec des étapes précises 
 
 - - -
 - - -
-- - -
 
 ### Kesako la BSCP ?
 
@@ -57,7 +56,6 @@ La Burp Suite Certified Practitioner (BSCP) est une certification officielle dé
 - Vous êtes obligé d'exploiter chaque step dans l'ordre
 - Il n'y a qu'un "active user" par application *(donc si premier steps vous l'avez utilisé, par exemple pour une XSS alors la vuln pour le deuxième steps ne pourra être en lien avec l'utilisateur actif et l'exploit server)*
 
-- - -
 - - -
 - - -
 
@@ -181,7 +179,6 @@ _(🎯 Dans cette vidéo, je vais prendre l'exemple concret de la roadmap SSTI, 
 
 ---
 - - -
-- - -
 # Ma Prise de Notes
 
 Chaque lab que j'ai effectué se retrouve dans mes notes.
@@ -274,7 +271,6 @@ Kawabunga 💥 Oh que oui, bonhomme !
 
 -- - 
 -- - 
--- - 
 ## Mon **Lifestyle** durant la Préparation de la BSCP (et actuel)
 ### Comment Maximiser ton Efficacité en Évitant le Burnout
 
@@ -318,7 +314,6 @@ Tu te dis **actuellement** : "Ce rythme n'est pas pour moi, je ne suis pas un l�
 
 - - - 
 - - - 
-- - - 
 # Conclusion 
 
 
@@ -335,7 +330,7 @@ n'hésite pas à me contacter !
 
 ---
 ---
----
+
 # Les Meilleures Ressources pour Préparer la BSCP
 
 [📥 Mes ressources](https://github.com/Atom-U/My-BSCP-tools/)
@@ -480,4 +475,24 @@ Good luck !
 Send me a message ;) 🫴 [Mon discord](https://discord.com/users/user19216820011)
 
 
+---
+
+# Sources de l'Article
+
+- [My BSCP tools](https://github.com/Atom-U/My-BSCP-tools/)
+- [Roadmap SSTI (sans notes)](https://excalidraw.com/#json=JjypEaWNFXGPs2yhwV9kS,mkJgF-Y0D2cHa1cvrL_IPg)
+- [Roadmap BSCP](https://excalidraw.com/#json=wsXZjNIUK2mYBcBMdv69i,O18VLULtD4J5fDzTXHtqvA)
+- [roadmap XSS (sans notes)](https://excalidraw.com/#json=olc_SyA3xCmOvYnHZJAb6,h75MbZMjap12LElWdaWoNA)
+- [Roadmap Mystery Labs](https://excalidraw.com/#json=vRppITajm2KbzouWWcWPE,uD8cxQeL0Ln8yJCqUhG23Q)
+- [Template BSCP exam sur GitHub](https://github.com/Atom-U/My-BSCP-tools/)
+- [Vidéo sur la roadmap SSTI + Roadmap BSCP + Process By elimination](https://youtu.be/QaKsUK2EItI?si=f7oFuyegQbjDU7of)
+- [Crypto Cat - Vidéo YouTube](https://www.youtube.com/watch?v=L-3jJTGLAhc)
+- [Daniel Redferm - Vidéo YouTube](https://www.youtube.com/watch?v=Lbn8zQJByGY)
+- [Blog de Nishacid](https://nishacid.guru/articles/bscp/)
+- [Blog de Micah Vandeusen](https://micahvandeusen.com/burp-suite-certified-practitioner-exam-review/)
+- [BotesJuan - GitHub](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
+- [Dingy Shark - GitHub](https://github.com/DingyShark/BurpSuiteCertifiedPractitioner)
+- [Edra xss - GitHub](https://github.com/Edr4/XSS-Bypass-Filters)
+
+---
 
