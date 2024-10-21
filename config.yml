@@ -75,7 +75,7 @@ params:
     imageHeight: 160
     imageTitle: "Atom"
     buttons:
-      - name: BSCP Blogs
+      - name: BSCP Blog
         url: blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces 
       - name: About me 
         url: about 
