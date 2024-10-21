@@ -19,7 +19,7 @@ draft: false
 
 I’m **Atom**, driven by a relentless pursuit of **self-improvement** and the belief that there are **no limits** to what we can achieve. 💪 
 
-I’m also a student at *l'ESNA* with a deep passion for **cybersecurity**. 🔐  
+I’m also a student at *ESNA* with a deep passion for **cybersecurity**. 🔐  
 I'm part of the association *Astre* [@astrebzh](https://x.com/astrebzh).
 
 My **vision** is clear -> become the **best version** of myself and **inspire others** to do the same.  
