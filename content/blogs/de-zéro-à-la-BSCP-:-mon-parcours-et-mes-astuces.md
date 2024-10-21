@@ -210,11 +210,15 @@ Une fois les 23 topics terminés, je passe à la meilleure partie, celle qui va 
 
 <img src="/images/port-swigger-mystery-lab.png" style="border:solid;border-color:#885FFF;">
 
-J'ai donc créé une méthodologie en m'inspirant de ce site, avec les différentes possibilités de vulnérabilités en fonction des fonctionnalités.
+**J'ai donc créé une méthodologie en m'inspirant de ce site, avec les différentes possibilités de vulnérabilités en fonction des fonctionnalités.**
 
 ![Image de ma roadmap pour les Mystery Labs](/images/mysterly-lab.png)
 
-iiiiiiiiiiiiiiiiiiiiii[Télécharger cette roadmap]
+
+🛑 Mettre en Noir la roadmap ! -> `CTRL + /` -> dark -> `Enter` 
+
+👉[Click ici -> Lien de la roadmap mystery labs](https://excalidraw.com/#json=vRppITajm2KbzouWWcWPE,uD8cxQeL0Ln8yJCqUhG23Q)
+
 
 - - -
 ## On passe aux choses sérieuses : Le Passage de l'Examen
