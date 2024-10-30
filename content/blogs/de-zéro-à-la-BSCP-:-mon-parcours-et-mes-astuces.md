@@ -29,6 +29,18 @@ Dans cet article, je partage les stratégies, astuces, et erreurs à éviter pou
 Mon objectif est de te fournir une stratégie claire avec des étapes précises pour t'aider à passer l'examen efficacement.
 
 - - - 
+### Live avec [Laluka](https://x.com/TheLaluka)
+Plus d'info sur la BSCP et Tips sur le Lifetsyle
+
+
+<img src="/images/laluka.png" style="border:solid;border-color:#885FFF;">
+
+
+**📽️👉**[Optimize Your BSCP -> Part 1](https://www.youtube.com/watch?v=eNYIq1Rc_08)
+
+**📽️👉**[Optimize Your BSCP -> Part 2](https://youtu.be/62M5hRS673Y?feature=shared)
+
+- - -
 
 ## 📌 Tu es intéressé par la BSCP mais tu ne sais pas par où commencer ? [Clique ici](/blogs/de-zéro-à-la-bscp-mon-parcours-et-mes-astuces/#kesako-la-bscp-)
 
@@ -493,6 +505,7 @@ Send me a message ;) 🫴 [Mon discord](https://discord.com/users/user1921682001
 - [BotesJuan - GitHub](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
 - [Dingy Shark - GitHub](https://github.com/DingyShark/BurpSuiteCertifiedPractitioner)
 - [Edra xss - GitHub](https://github.com/Edr4/XSS-Bypass-Filters)
-
+- **📽️👉**[Optimize Your BSCP -> Part 1](https://www.youtube.com/watch?v=eNYIq1Rc_08)
+- **📽️👉**[Optimize Your BSCP -> Part 2](https://youtu.be/62M5hRS673Y?feature=shared) 
 ---
 
